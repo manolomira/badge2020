@@ -1,4 +1,4 @@
-16957189038718374
+16970014779177374
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -66072,6 +66072,34 @@ USB-A
 0
 6
 5
+Project_Footprint_Library
+Untitled
+
+
+0
+0
+0
+Project_Footprint_Library
+mask
+
+
+0
+0
+0
+Project_Footprint_Library
+•OSHWI_footprint
+
+
+0
+0
+0
+Project_Footprint_Library
+•OSHWI_footprint_silk
+
+
+0
+0
+0
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -75375,3 +75403,31 @@ USB-A
 0
 6
 5
+project footprints
+Untitled
+
+
+0
+0
+0
+project footprints
+mask
+
+
+0
+0
+0
+project footprints
+•OSHWI_footprint
+
+
+0
+0
+0
+project footprints
+•OSHWI_footprint_silk
+
+
+0
+0
+0
