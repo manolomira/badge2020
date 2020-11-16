@@ -1,6 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NONE_symbol
+F https://www.tme.eu/Document/6ea29838e05beac06400c47a846319d2/WS2812D-F5.pdf
+$ENDCMP
+#
 $CMP WS2812D
+F https://www.tme.eu/Document/6ea29838e05beac06400c47a846319d2/WS2812D-F5.pdf
+$ENDCMP
+#
+$CMP WS2812D_copy
 F https://www.tme.eu/Document/6ea29838e05beac06400c47a846319d2/WS2812D-F5.pdf
 $ENDCMP
 #

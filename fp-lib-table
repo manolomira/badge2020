@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "project footprints")(type KiCad)(uri "/Users/manuelmiramontes/Documents/Papelotes/• 2.020/OSHWDem - AMTEGA 2020/AMTEGA 2020/oshwdem_2020/Badge_2020/badge 2020/Project_Footprint_Library.pretty")(options "")(descr ""))
-  (lib (name OSHWI20)(type KiCad)(uri ${KIPRJMOD}/OSHWI20.pretty)(options "")(descr ""))
-)
